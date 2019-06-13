@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.nanofine.calculator.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-06-13T03:08:29" hostname="jaehyun" time="0.0">
+  <properties/>
+  <testcase name="testSum" classname="com.nanofine.calculator.CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
